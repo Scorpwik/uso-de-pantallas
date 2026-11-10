@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Scorpwik/UsoDePantallas
+  repo: Scorpwik/uso-de-pantallas
   branch: main
 
 # Descomentar la línea siguiente y correr `npx decap-server` para editar en local sin GitHub.
