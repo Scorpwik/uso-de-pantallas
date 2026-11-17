@@ -1,6 +1,6 @@
 # Uso de pantallas
 
-Informe académico de una sola página sobre cómo se usa el celular con niños menores de 8 años en lugares públicos de Quito. El sitio publica la observación de campo de Joshua Alexander Lozada Zurita para el Taller de Investigación (Diseño de Medios Interactivos, Universidad San Francisco de Quito), con la docente María Naranjo Ayala.
+Informe académico de una sola página sobre cómo se usa el celular con niños menores de 10 años en lugares públicos de Quito. El sitio publica la observación de campo de Joshua Alexander Lozada Zurita para el Taller de Investigación (Diseño de Medios Interactivos, Universidad San Francisco de Quito), con la docente María Naranjo Ayala.
 
 La observación registrada hasta ahora se hizo el 18 de octubre en el patio de comidas del Quicentro Sur. El informe recorre el planteamiento, la posición del investigador, los lugares, el diario de campo, las categorías culturales, las conclusiones, la reflexión sobre el proceso, las referencias y una nota sobre el uso de inteligencia artificial. El texto, las fotos y las fichas viven en Markdown: la página los lee y los arma sola.
 

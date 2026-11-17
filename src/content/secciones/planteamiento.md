@@ -1,7 +1,7 @@
 ---
 titulo: Planteamiento
 orden: 1
-tema: Cómo usan los papás el celular con niños menores de 8 años en lugares públicos, como centros comerciales y parques.
+tema: Cómo usan los papás el celular con niños menores de 10 años en lugares públicos, como centros comerciales y parques.
 pregunta: ¿Cómo usan los papás el celular para que sus hijos se queden tranquilos en lugares públicos, y qué pasa con el niño mientras lo usa?
 objetivoGeneral: Ver cómo se usa el celular con niños pequeños en lugares públicos y qué cambia en la forma en que el niño se relaciona con las personas que tiene cerca.
 objetivosEspecificos:
