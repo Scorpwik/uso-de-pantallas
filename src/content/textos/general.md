@@ -4,7 +4,7 @@ subtitulo: ""
 autor: Joshua Alexander Lozada Zurita
 docente: María Naranjo Ayala
 materia: Taller de Investigación
-ciudad: San Francisco de Quito, Ecuador
+ciudad: Quito, Ecuador
 salidas: 1
 observaciones: 4
 entradasDiario: 4
